@@ -1,0 +1,69 @@
+.tag-container {
+    /* background-color: rgba(148, 134, 134, 0.47); */
+    height: 2.75rem;
+    width: 40rem;
+    margin: 0 auto;
+    border-radius: 5rem;
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+
+}
+
+
+.option-button {
+    all: unset;
+    background-color: rgba(148, 134, 134, 0.619);
+    flex: 1;
+    text-align: center;
+    font-family: "Quicksand", sans-serif;
+    font-weight: 500;
+    font-size: 1.15rem;
+    color: white;
+    border-radius: 5rem;
+    height: 2.75rem;
+    align-items: center;
+    cursor: pointer;
+    letter-spacing: .1rem;
+    text-transform: uppercase;
+
+
+}
+
+
+.option-button-active {
+    all: unset;
+    background-color: #195d4d;
+    flex: 1;
+    text-align: center;
+    font-family: "Quicksand", sans-serif;
+    font-weight: 600;
+    font-size: 1.15rem;
+    color: white;
+    border-radius: 5rem;
+    height: 2.75rem;
+    align-items: center;
+    cursor: pointer;
+    letter-spacing: .1rem;
+    text-transform: uppercase;
+
+}
+
+.option-button:hover {
+    all: unset;
+    background-color: #195d4d;
+    flex: 1;
+    text-align: center;
+    font-family: "Quicksand", sans-serif;
+    font-weight: 500;
+    font-size: 1.15rem;
+    color: white;
+    border-radius: 5rem;
+    height: 3rem;
+    align-items: center;
+    cursor: pointer;
+    text-transform: uppercase;
+    letter-spacing: .1rem;
+
+
+}

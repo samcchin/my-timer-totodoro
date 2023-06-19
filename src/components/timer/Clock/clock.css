@@ -1,0 +1,67 @@
+.clock_container {
+    color:white;
+    height: 400px;
+    display: flex;
+    place-items:center;
+    justify-content: center;
+    align-items: center;
+    margin-top: -6rem;
+}
+
+.timer_text {
+    color: white;
+    font-family: 'Playfair+Display';
+    font-size: 10rem;
+    font-weight: 700;
+    text-align: center;
+    justify-content: center;
+}
+
+.white-totoro {
+    height: 35px;
+    width: 35px;
+    padding-right: .70rem;
+
+}
+.start_pause_button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: 'Quicksand';
+    font-size: 1rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: .70rem;
+    margin-left: 5rem;
+    background-color: #caa11b;
+    padding: .55rem .35rem .55rem .55rem;
+    border-radius: 12px;
+    color: white;
+    border-color: transparent;
+}
+
+.blue-totoro {
+    height: 35px;
+    width: 35px;
+    padding-right: .70rem;
+
+}
+
+.reset_button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: 'Quicksand';
+    font-size: 1rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: .70rem;
+    margin-left: 5rem;
+    background-color: #156aae;
+    padding: .55rem .35rem .55rem .55rem;
+    border-radius: 12px;
+    color: #dfe7ee;
+    border-color: transparent;
+}
