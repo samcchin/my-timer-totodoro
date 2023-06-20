@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/my-timer-totodoro/static/css/main.a1fcd1be.css",
+    "main.js": "/my-timer-totodoro/static/js/main.58d8aa51.js",
+    "static/js/787.491299f3.chunk.js": "/my-timer-totodoro/static/js/787.491299f3.chunk.js",
+    "static/media/totoro-sleep.gif": "/my-timer-totodoro/static/media/totoro-sleep.d52b408c8c5703b84a04.gif",
+    "static/media/mini_white_totoro.png": "/my-timer-totodoro/static/media/mini_white_totoro.0cc36d1a35f7f590e0f7.png",
+    "static/media/blue_totoro.png": "/my-timer-totodoro/static/media/blue_totoro.677c94f10a578a608153.png",
+    "index.html": "/my-timer-totodoro/index.html",
+    "main.a1fcd1be.css.map": "/my-timer-totodoro/static/css/main.a1fcd1be.css.map",
+    "main.58d8aa51.js.map": "/my-timer-totodoro/static/js/main.58d8aa51.js.map",
+    "787.491299f3.chunk.js.map": "/my-timer-totodoro/static/js/787.491299f3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a1fcd1be.css",
+    "static/js/main.58d8aa51.js"
+  ]
+}
